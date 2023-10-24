@@ -1,0 +1,198 @@
+/* header and nav*/
+.class_header {
+    width: 1440px;
+    margin: auto;
+}
+
+.header_logo {
+    margin-left: 130px;
+    margin-right: 531px;
+    vertical-align: middle;
+}
+
+.class_nav {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.class_li {
+    display: inline-block;
+}
+
+.midle {
+    margin: 0 121px;
+
+}
+
+.active,
+.no_active {
+    font-size: 20px;
+    color: #2414DB;
+     font-family: 'Inter', sans-serif;
+}
+
+.active {
+    color: red;
+}
+
+
+/* content */
+.cover_img {
+    display: block;
+    margin: auto;
+}
+/* Welcom, About, Contact US */
+
+.welcome_section{
+    width: 1440px;
+    background-color: #FFF;
+    margin: auto;
+    padding: 120px 130px;
+}
+.welcome{
+    color: #17326E;
+        font-family: 'Inter', sans-serif;
+        font-size: 36px;
+        width: 240.08px;
+        margin-block: 24px;
+}
+.welcom_text{
+    color: #090346;
+        font-family: 'Inter', sans-serif;
+        font-size: 20px;
+        width: 780px;
+}
+
+
+/*  */
+.ford_car_sections {
+    background: #EBEBF0;;
+    margin: auto;
+    width: 1440px;
+    height: 439px;
+}
+
+.ford_car {
+    margin-top: 121px;
+}
+
+.first_car {
+    margin-left: 130px;
+}
+
+.second_car {
+    margin: 0 16px;
+}
+
+/* footer */
+.class_footer {
+    margin: auto;
+    background: #19126B;
+    width: 1440px;
+    height: 161px;
+}
+
+.icons {
+    margin-top: 51px;
+    vertical-align: middle;
+}
+
+.first_icon {
+    margin-left: 130px;
+}
+
+.second_icon {
+    margin-inline: 16px;
+}
+
+.copyright_text {
+    font-size: 16px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 51px;
+    margin-left: 678px;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+}
+
+/* About, main content section */
+
+.class_figure {
+    background: #EBEBF0;
+    width: 1440px;
+    height: 517px;
+    margin: auto;
+
+}
+
+.history {
+    display: inline-block;
+    margin-top: 73px;
+    margin-left: 130px;
+    margin-bottom: 24px;
+    color: #19126B;
+    font-size: 36px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    vertical-align: middle;
+}
+
+.class_p {
+    width: 519px;
+    color: #090346;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 130px;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+.ford_main_car {
+    float: right;
+    margin-top: 73px;
+    margin-right: 130px;
+}
+
+/*  */
+.class_main{
+    background: #EBEBF0;
+    width: 1440px;
+    height: 546px;
+    margin: auto;
+}
+.Contact{
+    display: inline-block;
+    color: #19126B;
+    font-size: 36px;
+    font-weight: 400;
+    margin-top: 86px;
+    margin-left: 130px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+.Address{
+    display: block;
+    margin-left: 130px;
+    color: #0D69A9;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.second_addres{
+    margin-block: 12px 12px;
+}
+.firs_addres{
+    margin-top: 24px;
+}
+.span_class{
+    color: #000000;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.map{
+    float: right;
+    margin-top: 86px;
+    margin-right: 130px;
+}
